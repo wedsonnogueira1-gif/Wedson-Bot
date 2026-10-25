@@ -1,0 +1,13 @@
+{
+  "name": "@wedson/crypto-protection-stop-advance",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Isolated BUY/SELL stop-advance calculator for Crypto LIVE trailing (no Binance I/O).",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
